@@ -8,11 +8,11 @@ The analysis is based on the customer_shopping_behavior.csv dataset, which inclu
 
   - 👤 **Demographics:** Age, Gender, Location.
 
-  -💳 **Transaction Details:** Item Purchased, Category, Purchase Amount (USD), Payment Method.
+  - 💳 **Transaction Details:** Item Purchased, Category, Purchase Amount (USD), Payment Method.
 
-  -🎗️ **Customer Loyalty:** Subscription Status, Previous Purchases, Frequency of Purchases.
+  - 🎗️ **Customer Loyalty:** Subscription Status, Previous Purchases, Frequency of Purchases.
 
-  -⭐ **Feedback:** Review Rating.
+  - ⭐ **Feedback:** Review Rating.
 
 ## ⚙️ Project Workflow
 
@@ -49,7 +49,7 @@ The analysis is based on the customer_shopping_behavior.csv dataset, which inclu
 
 ## 💡 Key Insights
 
-  -⚥ **Gender Dynamics:** Analysis of revenue contribution between male and female segments.
+  - ⚥**Gender Dynamics:** Analysis of revenue contribution between male and female segments.
   
   - 💎**Subscription Value:** Evaluation of whether subscribed customers actually exhibit higher average spend compared to non-subscribers.
 
